@@ -28,7 +28,7 @@
   }
 
 @media screen (max-width: 768px){
-section{
+body{
 width: 768px;
 margin: 0 auto;
 }
