@@ -26,6 +26,13 @@
          url('./fonts/didact-gothic-v19-latin_cyrillic-regular.ttf') format('truetype'), /* Safari, Android, iOS */
          url('./fonts/didact-gothic-v19-latin_cyrillic-regular.svg#DidactGothic') format('svg'); /* Legacy iOS */
   }
+
+@media screen (min-width: 650px){
+section{
+Width: 600px;
+margin: 0 auto;
+}
+}
   html{
     background-color: darkgray;
   }
