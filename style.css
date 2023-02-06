@@ -27,9 +27,9 @@
          url('./fonts/didact-gothic-v19-latin_cyrillic-regular.svg#DidactGothic') format('svg'); /* Legacy iOS */
   }
 
-@media screen (min-width: 650px){
+@media screen (min-width: 500px){
 section{
-Width: 600px;
+width: 500px;
 margin: 0 auto;
 }
 }
